@@ -1,0 +1,23 @@
+{
+  "checks_passed": 15,
+  "checks": [
+    "APK ZIP integrity and required code/resources",
+    "No private signing files in APK",
+    "All application components present in DEX",
+    "Keystore/AES-GCM implementation included",
+    "Universal DEX package without CPU-specific native libraries",
+    "Package ID/version and launcher verified",
+    "Minimum API26 / Android9 target API28",
+    "Only normal foreground-service permission requested; no INTERNET/storage/contacts permission",
+    "Accessibility binding is protected and backup is disabled",
+    "Discoverable Quick Settings service is protected by the system tile binding permission",
+    "Dedicated clipboard launcher with icon/theme is exported and excluded from Recents",
+    "Monochrome tile and colored clipboard launcher icons are packaged",
+    "Signature verifies for actual Android9/API28 verifier settings",
+    "Signing certificate matches 1.0.0 for in-place updates",
+    "APK alignment verified"
+  ],
+  "apk_bytes": 45851,
+  "sha256": "a8d525c512f96210935c19b12c03e5e946eac2c038c14e633efa623d60cd1d5a",
+  "real_phone_tested": false
+}

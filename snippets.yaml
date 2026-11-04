@@ -1,0 +1,30 @@
+version: 1
+settings:
+  trigger_mode: delimiter
+  preserve_space: true
+  excluded_titles:
+    - Command Prompt
+    - PowerShell
+    - cmd.exe
+    - Terminal
+    - KeePass
+  excluded_processes:
+    - cmd.exe
+    - powershell.exe
+    - pwsh.exe
+    - WindowsTerminal.exe
+    - KeePass.exe
+    - KeePassXC.exe
+    - 1Password.exe
+    - Bitwarden.exe
+snippets:
+  - id: welcome
+    label: Thank you
+    shortcut: ;thanks
+    text: Thank you for your message. I will get back to you soon.
+  - id: signature
+    label: Simple sign-off
+    shortcut: ;sig
+    text: |-
+      Kind regards,
+      Your name

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#37318C</item>
+        <item name="android:statusBarColor">#37318C</item>
+        <item name="android:navigationBarColor">#FAFAFE</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FAFAFE</item>
+    </style>
+    <string name="service_description">TwistType expands your saved shortcuts in editable text fields while you keep your current keyboard. It checks focused fields to avoid passwords and sensitive apps. Optional clipboard history stores recent plain-text copies locally with encryption. No network access, ads, or analytics. Some apps do not expose editable fields; use Copy in the snippet list there. You can disable this service at any time.</string>
+    <item name="test_field" type="id" />
+    <style name="ClipboardEntryTheme" parent="android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
