@@ -5,6 +5,12 @@
 
 Personal, offline text expansion and clipboard history for Windows 10/11, x64. No Python installation is needed to run the packaged EXE.
 
+## Screenshot
+
+![TwistType snippet library with sample shortcuts and the snippet editor](TwistType-preview.png)
+
+Snippet library shown in version 1.1.0.
+
 ## Run
 
 1. Use **`release\Single-EXE\TwistType.exe`**. It is the only file needed to run the app. You can keep it in Documents, on the Desktop, or another permanent location. The ZIP is an optional package with documentation.
