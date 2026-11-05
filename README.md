@@ -1,9 +1,8 @@
 # TwistType 1.1.1
 
+**[Download for Windows](https://github.com/twistkan/twist-type/releases/download/v1.1.1/TwistType.exe)** · [Release notes and checksums](https://github.com/twistkan/twist-type/releases/tag/v1.1.1)
+
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20Twist%20Apps-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.yotip.me/twistkan)
-
-**Windows download:** [Latest release](https://github.com/twistkan/twist-type/releases/latest). This repository contains source code; packaged executables are in Releases.
-
 
 Personal, offline text expansion and clipboard history for Windows 10/11, x64. No Python installation is needed to run the packaged EXE.
 
